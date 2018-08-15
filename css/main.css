@@ -1,0 +1,7 @@
+@import url(./bootstrap.min.css);
+
+.searchBar{
+    float: right;
+    /* background-color: #f0ecec; */
+    margin-left: auto;
+}
