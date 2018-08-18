@@ -5,3 +5,18 @@
     /* background-color: #f0ecec; */
     margin-left: auto;
 }
+
+.sideBar{
+    align-items: stretch;
+    min-width: 190px;
+    /* height: 100vh; */
+}
+
+.centerBox{
+    background-color: #b7ffff;
+    min-width: 190px;
+}
+
+.main{
+    margin: auto;
+}
