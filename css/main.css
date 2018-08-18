@@ -20,3 +20,7 @@
 .main{
     margin: auto;
 }
+
+.aboutBox{
+    max-height: 25%;
+}
