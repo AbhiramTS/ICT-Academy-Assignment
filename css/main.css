@@ -1,5 +1,9 @@
 @import url(./bootstrap.min.css);
 
+.navBar{
+    min-width: 300px;
+}
+
 .searchBar{
     float: right;
     /* background-color: #f0ecec; */
@@ -8,13 +12,12 @@
 
 .sideBar{
     align-items: stretch;
-    min-width: 190px;
+    min-width: 300px;
     /* height: 100vh; */
 }
 
 .centerBox{
-    background-color: #b7ffff;
-    min-width: 190px;
+    min-width: 300px;
 }
 
 .main{
@@ -23,4 +26,24 @@
 
 .aboutBox{
     max-height: 25%;
+}
+
+.slideBox{
+    max-height: 700px;
+    overflow: hidden;
+}
+
+.imageBox{
+    overflow: hidden;
+    max-height: 210px;
+    /* min-height: 2 */
+}
+
+.formBox{
+    width: 100%;
+}
+
+#info{
+    color: #ff0000;
+    text-align: center;
 }
